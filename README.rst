@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-=======================
- sphinxcontrib-fulltoc
-=======================
+==============================
+ sphinxcontrib-fulltoc (fork)
+==============================
 
 sphinxcontrib-fulltoc is an extension for the Sphinx_ documentation
 system that changes the HTML output to include a more detailed table
